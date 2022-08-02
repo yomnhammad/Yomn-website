@@ -6,7 +6,9 @@ Yomn can be a difficult subject to understand, there are many complexities and n
 
 Yomn is a relatively new field being discovered so information on a Yomn can sometimes blow your mind, give you a headache, or annoy your eardrums. By law, we must make you aware of these risks, before proceeding.
 
-# Header 1
+# Current Books I'm Reading
+Outliers, Fav Quotes:
+- 
 ## Header 2
 ### Header 3
 
