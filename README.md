@@ -1,15 +1,10 @@
 ## Welcome to Introduction to Yomn
 
-You can use the [editor on GitHub](https://github.com/yomnhammad/Yomn-website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Yomn can be a difficult subject to understand, there are many complexities and nuances to the Yomn field. But on this website Yomn researchers have compiled some data regarding Yomn's interests, accomplishments, and hobbies.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Warning
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Yomn is a relatively new field being discovered so information on a Yomn can sometimes blow your mind, give you a headache, or annoy your eardrums. By law, we must make you aware of these risks, before proceeding.
 
 # Header 1
 ## Header 2
